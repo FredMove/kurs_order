@@ -5,7 +5,7 @@
     <meta name="description" content="Это описание веб-страницы">
     <title>Сельское хозяйство для начинающих</title>
     <!-- Подключение Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Подключение пользовательских стилей -->
     <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
@@ -14,47 +14,23 @@
     <header class="bg-success text-white text-center py-3">
         <h1>Добро пожаловать на сайт для начинающих фермеров!</h1>
     </header>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+    <nav class="bg-dark">
         <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                <a class="nav-link" href="index.php">Главная страница</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/urozhaj.php">Урожай</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/obrabotkapochvy.php">Обработка почвы</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/selskhoztehnika.php">Сельскохозяйственная техника</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/selskhozkultury.php">Сельскохозяйственные культуры</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/galereya.php">Галерея</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/magazinprodukcii.php">Магазин продукции</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/kontakty.php">Контакты</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/blog.php">Блог</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="pages/faq.php">FAQ</a>
-                </li>
+            <ul class="nav justify-content-center">
+                <li class="nav-item"><a class="nav-link text-white" href="index.php">Главная страница</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/urozhai.php">Урожай</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/obrabotka_pochvy.php">Обработка почвы</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/selkhoz_tehnika.php">Сельскохозяйственная техника</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/selkhoz_kultury.php">Сельскохозяйственные культуры</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/galereya.php">Галерея</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/magazin_produkcii.php">Магазин продукции</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/kontakty.php">Контакты</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/blog.php">Блог</a></li>
+                <li class="nav-item"><a class="nav-link text-white" href="pages/faq.php">FAQ</a></li>
             </ul>
-            </div>
         </div>
-        </nav>
+    </nav>
 
     <main class="container my-4">
         <section class="my-4 text-section p-4">
