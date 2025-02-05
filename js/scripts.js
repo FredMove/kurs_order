@@ -1,3 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('Страница загружена');
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Страница загружена");
 });

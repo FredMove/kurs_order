@@ -12,7 +12,6 @@
         <h1>Сельскохозяйственные культуры</h1>
     </header>
 
-    <!-- Навигация -->
     <nav class="bg-dark">
         <div class="container">
             <ul class="nav justify-content-center">

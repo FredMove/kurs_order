@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div>
-
+            <!-- Вспашка -->
             <div class="col-12 mb-4">
                 <div class="card">
                     <div class="text-center" style="width: 33%; margin: 0 auto;">
@@ -68,7 +68,7 @@
                     </div>
                 </div>
             </div>
-
+            <!-- Боронование -->
             <div class="col-12 mb-4">
                 <div class="card">
                     <div class="text-center" style="width: 33%; margin: 0 auto;">
@@ -87,7 +87,7 @@
                     </div>
                 </div>
             </div>
-
+            <!-- Мульчирование -->
             <div class="col-12 mb-4">
                 <div class="card">
                     <div class="text-center" style="width: 33%; margin: 0 auto;">

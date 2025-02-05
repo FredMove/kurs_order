@@ -13,7 +13,6 @@
         <h1>Галерея сельского хозяйства</h1>
     </header>
 
-    <!-- Navigation -->
     <nav class="bg-dark">
         <div class="container">
             <ul class="nav justify-content-center">
@@ -30,7 +29,7 @@
             </ul>
         </div>
     </nav>
-
+    <!-- Непосредственно галерея -->
     <main class="container my-4">
         <div class="gallery">
             <div class="row g-4">
@@ -94,6 +93,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/simplelightbox/2.10.3/simple-lightbox.min.js"></script>
+    <!-- LightBox для увеличения картинки -->
     <script>
         new SimpleLightbox('.gallery a', {});
     </script>

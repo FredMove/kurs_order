@@ -36,6 +36,7 @@
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                         Тракторы
+                        <img src="../images/tractor.jpg" class="accordion-preview-image" alt="Тракторы">
                     </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#techAccordion">
@@ -57,6 +58,7 @@
                 <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                         Культиваторы
+                        <img src="../images/cultivator.jpg" class="accordion-preview-image" alt="Культиваторы">
                     </button>
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -78,6 +80,7 @@
                 <h2 class="accordion-header" id="headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                         Плуги
+                        <img src="../images/plow.jpg" class="accordion-preview-image" alt="Плуги">
                     </button>
                 </h2>
                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -99,6 +102,7 @@
                 <h2 class="accordion-header" id="headingFour">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
                         Сеялки
+                        <img src="../images/seeder.jpg" class="accordion-preview-image" alt="Сеялки">
                     </button>
                 </h2>
                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -120,6 +124,7 @@
                 <h2 class="accordion-header" id="headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
                         Опрыскиватели
+                        <img src="../images/sprayer.jpg" class="accordion-preview-image" alt="Опрыскиватели">
                     </button>
                 </h2>
                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -141,6 +146,7 @@
                 <h2 class="accordion-header" id="headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
                         Комбайны
+                        <img src="../images/combine.jpg" class="accordion-preview-image" alt="Комбайны">
                     </button>
                 </h2>
                 <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -162,6 +168,7 @@
                 <h2 class="accordion-header" id="headingSeven">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven">
                         Автомобили
+                        <img src="../images/truck.jpg" class="accordion-preview-image" alt="Автомобили">
                     </button>
                 </h2>
                 <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#techAccordion">
@@ -178,7 +185,6 @@
                 </div>
             </div>
             
-            <!-- Повторить для остальной техники -->
         </div>
     </main>
 
